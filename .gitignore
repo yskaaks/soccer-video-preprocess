@@ -1,0 +1,16 @@
+__pycache__/
+
+Final Videos/*
+images/*
+initial-trimmed-videos/*
+matches/*
+Data/relevant/*
+Data/irrelevant/*
+
+Remove Irrelevant Frames/Irrelevant Frames Videos/match1.mp4
+Remove Irrelevant Frames/Irrelevant Frames Videos/match2.mp4
+Remove Irrelevant Frames/Relevant Frames Videos/match1.mp4
+Remove Irrelevant Frames/Relevant Frames Videos/match2.mp4
+
+trimmed_video.mp4
+trimmed_videoTEMP_MPY_wvf_snd.mp4
